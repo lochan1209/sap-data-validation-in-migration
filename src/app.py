@@ -11,8 +11,8 @@ load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
 
 # === Streamlit UI ===
-st.title("📊 LLM-Based Customer Data Validator (Groq Model)")
-st.write("Upload an Excel/CSV file to validate customer data using Groq LLM")
+st.title("📊 LLM-Based Customer Data Validator")
+st.write("Upload an Excel/CSV file to validate customer data using LLM")
 
 uploaded_file = st.file_uploader("Upload your customer data file", type=["xlsx", "csv"])
 
