@@ -1,0 +1,16 @@
+python-dotenv
+assemblyai
+ragie
+python-docx
+streamlit
+ffmpeg-python
+pandas
+numpy
+scikit-learn
+openpyxl
+langchain 
+langchain-groq
+langgraph
+langchain_openai
+grandalf
+tavily-python
